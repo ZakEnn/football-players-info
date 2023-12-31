@@ -1,4 +1,4 @@
-import logo from '../../fifa.png';
+import logo from '../../assets/fifa.png';
 import style from './Header.module.css';
 
 function Header(){

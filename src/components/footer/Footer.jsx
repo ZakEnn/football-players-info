@@ -1,4 +1,4 @@
-import logo from '../../pln.png';
+import logo from '../../assets/pln.png';
 import style from './Footer.module.css';
 
 function Footer(){
