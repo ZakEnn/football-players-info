@@ -1,0 +1,17 @@
+.footer{
+    background-color: white;
+    color:  #282c34;
+    position: relative; 
+    text-align: right;
+    padding-right: 0%;
+    left: 0;
+    bottom: 0;
+    margin-top: 2%;
+    margin-bottom: 0.5%;
+    margin-left: 5%;
+    margin-right: 0%;
+}
+
+.footer span{
+    text-align: center;
+}

@@ -1,0 +1,7 @@
+.container {
+    min-height: calc(70vh);
+    margin-top: 2%;
+    margin-bottom: 0.5%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
