@@ -4,13 +4,13 @@ React demo application presenting football players information.
 # Application Overview
 A simple SPA using react to build dynamic user interfaces based on components.
 
->![Alt text](fifa_countries.png)
+<kbd>![Alt text](fifa_countries.png)</kbd>
 
 
->![Alt text](fifa_morocco_players.png)
+<kbd>![Alt text](fifa_morocco_players.png)</kbd>
 
 
->![Alt text](fifa_players_ziyech.png)
+<kbd>![Alt text](fifa_players_ziyech.png)</kbd>
 
 In the project directory, you can installs the required dependencies: 
 ### `npm install` 
